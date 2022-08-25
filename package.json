@@ -119,7 +119,7 @@
   },
   "dependencies": {
     "aedes-packet": "^3.0.0",
-    "aedes-persistence": "^9.1.1",
+    "aedes-persistence": "yeoupooh/aedes-persistence#v9.1.1_node14",
     "end-of-stream": "^1.4.4",
     "fastfall": "^1.5.1",
     "fastparallel": "^2.4.1",
